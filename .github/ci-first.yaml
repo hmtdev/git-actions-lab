@@ -3,7 +3,7 @@ on:
   push:
     branches:
       
-feat/ci-cd
+feature-ci-cd
 
 jobs:
   hello:
